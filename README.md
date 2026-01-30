@@ -83,9 +83,20 @@ Always learning. Always improving. 💪
 
 ## 🔗 Connect With Me
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces)](https://codeforces.com/profile/abdulkayum)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/abdulkayum404)
-[![Email](https://img.shields.io/badge/Gmail-Mail-red?logo=gmail)](mailto:kayum12123@gmail.com)
+<p align="left">
+<a href="https://codeforces.com/profile/abdulkayum" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/codeforces.png" width="40"/>
+</a>
+
+<a href="https://linkedin.com/in/abdulkayum404" target="_blank">
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+</a>
+
+<a href="mailto:kayum12123@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail.png" width="40"/>
+</a>
+</p>
+
 
 
 ---
