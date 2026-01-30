@@ -67,8 +67,7 @@ Always learning. Always improving. 💪
 ## 🏆 Achievements
 
 🥇 Champion & Best Fresher — Winter Programming Contest 2025 (GUBCPA)  
-📈 Solved 230+ Problems  
-🎓 CSE Batch 252  
+📈 Solved 230+ Problems    
 
 ---
 
