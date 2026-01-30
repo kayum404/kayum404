@@ -12,7 +12,7 @@ I'm a passionate competitive programmer skilled in C and C++.
 I love solving algorithmic problems and improving my problem-solving skills every day.
 
 🏆 Champion & Best Fresher — Winter Programming Contest 2025 (GUBCPA)  
-💻 Solved **210+** problems on various online judge
+💻 Solved **230+** problems on various online judge
 
 Always learning. Always improving. 💪
 
@@ -24,8 +24,8 @@ Always learning. Always improving. 💪
 | ---------- | -------- |
 | Codeforces | 113      |
 | Beecrowd   | 70       |
-| Others     | 30+      |
-| **Total**  | **210+** |
+| Others     | 50+      |
+| **Total**  | **230+** |
 
 ---
 
@@ -67,7 +67,7 @@ Always learning. Always improving. 💪
 
 🥇 Champion + Best Fresher — Winter Programming Contest 2025 (GUBCPA)
 
-📈 250+ Problems Solved
+📈 230+ Problems Solved
 
 ---
 
@@ -83,9 +83,10 @@ Always learning. Always improving. 💪
 
 ## 🔗 Connect With Me
 
-- 💼 Codeforces: [Codeforces](https://codeforces.com/profile/abdulkayum)
-- 🌐 LinkedIn: [LinkedIn](https://linkedin.com/in/abdulkayum404)
-- 📧 Email: [Mail Me](mailto:kayum12123@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces)](https://codeforces.com/profile/abdulkayum)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/abdulkayum404)
+[![Email](https://img.shields.io/badge/Gmail-Mail-red?logo=gmail)](mailto:kayum12123@gmail.com)
+
 
 ---
 
