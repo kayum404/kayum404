@@ -1,18 +1,99 @@
-# 💫 About Me:
-Hi 👋, I'm Abdul Kayum<br><br>I'm a competitive programmer skilled in C and C++. <br>I love solving algorithmic problems and improving my problem-solving skills every day.<br><br>🏆 Champion & Best Fresher — Winter Programming Contest 2025 (GUBCPA)<br>💻 Solved 250+ problems on various online judges<br><br>Always learning. Always improving. 💪<br>
+# 👋 Hi, I'm Abdul Kayum (kayum404)
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdulkayumbauphal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulkayum404) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kayum12123@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kayum404&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kayum404&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kayum404&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+🚀 Competitive Programmer | C & C++ Enthusiast 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kayum404&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+Hi 👋, I'm Abdul Kayum 
+
+I'm a passionate competitive programmer skilled in C and C++.
+I love solving algorithmic problems and improving my problem-solving skills every day.
+
+🏆 Champion & Best Fresher — Winter Programming Contest 2025 (GUBCPA)
+💻 Solved 210+ problems on various online judge
+🚀 Goal: Become a strong software engineer
+
+Always learning. Always improving. 💪
+
+---
+
+## 📊 Problem Solving Stats
+
+| Platform   | Solved   |
+| ---------- | -------- |
+| Codeforces | 113      |
+| Beecrowd   | 70       |
+| Others     | 30+      |
+| **Total**  | **210+** |
+
+---
+
+## 🛠️ Skills
+
+### 👨‍💻 Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+
+### 🌐 Web Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### 📚 Core Concepts
+
+* Data Structures
+* Algorithms
+* Problem Solving
+* Competitive Programming
+
+---
+
+## 📁 Featured Repositories
+
+📌 Some of my highlighted works:
+
+* 🔹 **C-Programming-Practice** — Beginner C Programming Problem Solutions
+* 🔹 **Codeforces-Practice** — Codeforces Practice Problem Solutions
+* 🔹 **Atcoder-Practice** — Atcoder Practice Problem Solutions
+* 🔹 **Codechef-Practice** — Atcoder Practice Problem Solutions
+* 🔹 **Structure-Programming-Lab** — Varsity Course (CSE-104) Practice Problem Solutions
+* 🔹 **GUCPA(Varsity)-Problem-Practise** — Varsity CP Batch Practice Problem Solutions
+
+---
+
+## 🏆 Achievements
+
+🥇 Champion + Best Fresher — Winter Programming Contest 2025 (GUBCPA)
+
+📈 250+ Problems Solved
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kayum404\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kayum404\&layout=compact\&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kayum404\&theme=radical)
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 Codeforces: [Codeforces](https://codeforces.com/profile/abdulkayum)
+- 🌐 LinkedIn: [LinkedIn](https://linkedin.com/in/abdulkayum404)
+- 📧 Email: [Mail Me](mailto:kayum12123@gmail.com)
+
+---
+
+## 💬 Quote
+
+> "Practice makes progress, not perfection." 💪
+
+---
+
+⭐ Feel free to explore my repositories and give a star if you like my work!
