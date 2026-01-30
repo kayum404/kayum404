@@ -83,18 +83,20 @@ Always learning. Always improving. 💪
 
 ## 🔗 Connect With Me
 
-<p align="left">
-<a href="https://codeforces.com/profile/abdulkayum" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" width="40"/>
+<p align="center">
+
+<a href="https://codeforces.com/profile/abdulkayum">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" width="40"/>
 </a>
 
-<a href="https://linkedin.com/in/abdulkayum404" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+<a href="https://linkedin.com/in/abdulkayum404">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="40"/>
 </a>
 
 <a href="mailto:kayum12123@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="40"/>
 </a>
+
 </p>
 
 
