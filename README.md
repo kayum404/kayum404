@@ -57,8 +57,8 @@ Always learning. Always improving. 💪
 🔹 [C-Programming-Practice](https://github.com/kayum404/C-Programing) — Beginner C Programming Problem Solutions  
 🔹 [Codeforces-Practice](https://github.com/kayum404/Codeforces-Practise-Problem) — Codeforces Practice Problem Solutions  
 🔹 [Atcoder-Practice](https://github.com/kayum404/Atcoder_Practise_Probelm) — Atcoder Practice Problem Solutions    
-🔹 [Structure-Programming-Lab](https://github.com/kayum404/Structure-Programming-Lab-104) — Varsity Course (CSE-104) Practice Problem Solutions  
-🔹 [GUCPA(Varsity)-Problem-Practise](https://github.com/kayum404/Problem_Solve_From_GUBCPA) — Varsity CP Batch Practice Problem Solutions
+🔹 [Structure-Programming-Lab](https://github.com/kayum404/Structure-Programming-Lab-104) — University Course (CSE-104) Practice Problem Solutions  
+🔹 [GUBCPA-Problem-Practise](https://github.com/kayum404/Problem_Solve_From_GUBCPA) — University CP Batch Practice Problem Solutions
 
 
 ---
