@@ -11,9 +11,8 @@ Hi 👋, I'm Abdul Kayum
 I'm a passionate competitive programmer skilled in C and C++.
 I love solving algorithmic problems and improving my problem-solving skills every day.
 
-🏆 Champion & Best Fresher — Winter Programming Contest 2025 (GUBCPA)
-💻 Solved 210+ problems on various online judge
-🚀 Goal: Become a strong software engineer
+🏆 Champion & Best Fresher — Winter Programming Contest 2025 (GUBCPA)  
+💻 Solved **210+** problems on various online judge
 
 Always learning. Always improving. 💪
 
