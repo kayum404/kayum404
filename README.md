@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdul Kayum (kayum404)
+# 👋 Hi, I'm Abdul Kayum 
 
 🚀 Competitive Programmer | C & C++ Enthusiast 
 
